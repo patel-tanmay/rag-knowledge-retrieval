@@ -1,0 +1,26 @@
+# API Keys and Secrets
+.env
+*api_keys*
+*secret*
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

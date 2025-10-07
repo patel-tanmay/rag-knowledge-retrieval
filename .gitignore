@@ -1,0 +1,14 @@
+# Ignore environment and secret files
+.env
+
+# Ignore auto-generated folders and logs
+__pycache__/
+.ipynb_checkpoints/
+logs/
+data/
+indexes/
+
+# OS and IDE clutter
+.DS_Store
+Thumbs.db
+
